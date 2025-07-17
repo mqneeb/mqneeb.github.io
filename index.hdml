@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Top 5 Popular Foods in the US</title>
+  </head>
+  <body>
+
+    <!-- Main Title -->
+    <h1>Top 5 Popular Foods in the United States</h1>
+
+    <!-- 1. Hamburger -->
+    <h2>1. Hamburger</h2>
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/hamburger.png" alt="Hamburger" width="400">
+    <p>Hamburgers are a classic American food made with a beef patty inside a bun. They're often topped with cheese, lettuce, tomato, and ketchup.</p>
+
+    <!-- 2. Sushi -->
+    <h2>2. Sushi</h2>
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/sushi.png" alt="Sushi" width="400">
+    <p>Sushi comes from Japan but is very popular in the U.S. It includes rice and raw fish, and sometimes vegetables, all rolled in seaweed.</p>
+
+    <!-- 3. Pasta -->
+    <h2>3. Pasta</h2>
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/pasta.png" alt="Pasta" width="400">
+    <p>Pasta is an Italian dish loved in America. It comes in many shapes and is served with sauces like tomato or creamy Alfredo.</p>
+
+    <!-- 4. Fish -->
+    <h2>4. Fish</h2>
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/fish_grilled-snapper.png" alt="Fish" width="400">
+    <p>Grilled or baked fish is healthy and tasty. Many people enjoy salmon, cod, or tilapia with lemon and herbs.</p>
+
+    <!-- 5. Dumplings -->
+    <h2>5. Dumplings</h2>
+    <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/food/dumplings.png" alt="Dumplings" width="400">
+    <p>Dumplings are soft dough filled with meat or veggies. They're often steamed or fried and come from Asian cuisines but are loved all over the U.S.</p>
+
+    <!-- Ending Note -->
+    <p><strong>Thanks for exploring these delicious foods!</strong></p>
+
+  </body>
+</html>
